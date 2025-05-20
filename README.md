@@ -1,2 +1,2 @@
 # TronCity
-remake of the 1989 Sim City!
+remake of the micropolis 1989
